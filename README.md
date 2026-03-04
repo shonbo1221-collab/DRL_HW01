@@ -5,6 +5,11 @@ This is a modern, premium personal digital business card / landing page develope
 
 **Theme:** Ocean Theme 🌊 (Deep navy background with Cyan and Teal dynamic lighting)
 
+## Demo
+**Live Demo:** [https://shonbo1221-collab.github.io/DRL_HW01/](https://shonbo1221-collab.github.io/DRL_HW01/)
+
+![Homepage Screenshot](./homepage.png)
+
 ## Features
 
 ### 1. Web Development
